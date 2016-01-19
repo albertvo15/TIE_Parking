@@ -4,7 +4,15 @@ import json
 import xmljson
 h = httplib2.Http(".cache")
 resp, content = h.request("http://scpark1.tiesv.org/fid-parkingmanagement", 
-    "POST", body="<Query> <saveOperatorAppInfo> <OperatorID/> <LotID/> <TodaysPrice/> <CurrentNoOfVacancies/> </saveOperatorAppInfo> </Query>", 
+    "POST", body="<Query> \
+  <saveOperatorAppInfo> \
+    <OperatorID/> \
+    <LotID/> \
+    <TodaysPrice/> \
+    <CurrentNoOfVacancies/> \
+  </saveOperatorAppInfo> \
+</Query> \
+", 
     headers={'content-type':'application/x-www-form-urlencoded'} )
 print (content)
 

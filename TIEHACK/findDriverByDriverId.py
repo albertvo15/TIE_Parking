@@ -23,6 +23,6 @@ print (content)
 
 from lxml.etree import fromstring, tostring
 xml = fromstring(content)
-#print (json.dumps(xmljson.badgerfish.data(xml)))
+print (json.dumps(xmljson.parker.data(xml)))
 
 
