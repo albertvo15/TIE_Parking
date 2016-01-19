@@ -1,0 +1,8 @@
+<Save Status="Success">
+  <TqlSubscription>
+    <sid>TS8400613508176611804#020</sid>
+    <Label Status="Success+Created:1:1453202544281;" Value="CityParkingApp"/>
+    <Topic Status="Success+Created:1:1453202544281;" Value="* parkingmanagement.management.CityParkingApp.*"/>
+  </TqlSubscription>
+</Save>
+{"Save": {"Status": "Success", "TqlSubscription": {"sid": {"$t": "TS8400613508176611804#020"}, "Label": {"Status": "Success+Created:1:1453202544281;", "Value": "CityParkingApp"}, "Topic": {"Status": "Success+Created:1:1453202544281;", "Value": "* parkingmanagement.management.CityParkingApp.*"}}}}

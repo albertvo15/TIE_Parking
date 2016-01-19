@@ -1,0 +1,17 @@
+<Find Status="Success">
+  <Result>
+    <Driver>
+      <ID>KJCXVJXVAAAKYHZSFXYSQVG5</ID>
+      <DriverID>Driver-1</DriverID>
+      <ParkedLotID/>
+      <HomeLocation>
+        <Latitude>33.6531665400</Latitude>
+        <Longitude>-117.8465224000</Longitude>
+      </HomeLocation>
+      <Decision>false</Decision>
+      <LastUtilityFunction>0.1000000000</LastUtilityFunction>
+      <TimeParked/>
+    </Driver>
+  </Result>
+</Find>
+{"Result": {"Driver": {"ID": "KJCXVJXVAAAKYHZSFXYSQVG5", "DriverID": "Driver-1", "ParkedLotID": null, "HomeLocation": {"Latitude": 33.65316654, "Longitude": -117.8465224}, "Decision": false, "LastUtilityFunction": 0.1, "TimeParked": null}}}

@@ -1,0 +1,18 @@
+<Find Status="Success">
+  <Result>
+    <ParkingLot>
+      <ID>KJCXVKO4AAAKYHZSFUKQL54D</ID>
+      <DigitalDisplay/>
+      <RegisteredVacancy>0</RegisteredVacancy>
+      <OperatorID>NA</OperatorID>
+      <LotLocation>
+        <Latitude>33.6475838000</Latitude>
+        <Longitude>-117.8389759000</Longitude>
+      </LotLocation>
+      <LotID>UCI Lot 14 - Pereira Dr</LotID>
+      <AuthorizedOperator/>
+      <ReservationPrice>201.0000000000</ReservationPrice>
+    </ParkingLot>
+  </Result>
+</Find>
+{"Result": {"ParkingLot": {"ID": "KJCXVKO4AAAKYHZSFUKQL54D", "DigitalDisplay": null, "RegisteredVacancy": 0, "OperatorID": "NA", "LotLocation": {"Latitude": 33.6475838, "Longitude": -117.8389759}, "LotID": "UCI Lot 14 - Pereira Dr", "AuthorizedOperator": null, "ReservationPrice": 201.0}}}
